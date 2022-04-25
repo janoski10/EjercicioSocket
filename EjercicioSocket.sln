@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioSocket", "EjercicioSocket\EjercicioSocket.csproj", "{A1890CAD-B619-46FA-BE55-307E3A9EEFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorSocketUtil", "ServidorSocketUtil\ServidorSocketUtil.csproj", "{E9112FF1-9EA6-412E-B8D7-EF0ED0A110F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1890CAD-B619-46FA-BE55-307E3A9EEFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1890CAD-B619-46FA-BE55-307E3A9EEFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1890CAD-B619-46FA-BE55-307E3A9EEFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1890CAD-B619-46FA-BE55-307E3A9EEFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9112FF1-9EA6-412E-B8D7-EF0ED0A110F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9112FF1-9EA6-412E-B8D7-EF0ED0A110F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9112FF1-9EA6-412E-B8D7-EF0ED0A110F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9112FF1-9EA6-412E-B8D7-EF0ED0A110F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
