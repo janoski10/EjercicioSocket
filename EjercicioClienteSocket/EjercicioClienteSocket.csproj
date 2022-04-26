@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClienteSocketUtils\ClienteSocketUtils.csproj">
+      <Project>{51ac1428-d90e-49bd-8356-abe0fe54c56c}</Project>
+      <Name>ClienteSocketUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
